@@ -8,9 +8,8 @@ import os
 import sys
 
 ENTRY = (
-    "v7.7.7: fixed a bug where the brain wrote the perfect reply three "
-    "hours after the argument ended. Fix failed. It now writes it in the "
-    "shower, out loud."
+    "v9.9.9: fixed a bug where the phone died at 1% after surviving an "
+    "hour at 2%. Fix failed. It now dies at 5% to keep us humble."
 )
 
 
