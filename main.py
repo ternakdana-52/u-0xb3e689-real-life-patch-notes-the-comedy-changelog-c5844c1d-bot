@@ -8,8 +8,8 @@ import os
 import sys
 
 ENTRY = (
-    "v1.9.2: fixed a bug where the brain replayed embarrassing moments "
-    "from 2014 at 3 a.m. with no off switch."
+    "v2.0.4: fixed a bug where the mouth replied 'you too' when the "
+    "waiter said 'enjoy your meal'. Fix failed. Mouth now says it twice."
 )
 
 
